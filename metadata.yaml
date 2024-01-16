@@ -1,5 +1,8 @@
 _repo: Huit-gouttes-d-opium_72619
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72619-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérochon, Ernest
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ernest_P%C3%A9rochon
     - https://fr.wikipedia.org/wiki/Ernest_P%C3%A9rochon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72619#Huit-gouttes-d-opium
 gutenberg_issued: '2024-01-04'
 gutenberg_type: Text
 identifiers:
